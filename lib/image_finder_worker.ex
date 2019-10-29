@@ -1,4 +1,4 @@
-defmodule ImageFinder.Worker do
+defmodule ImageFinder.Worker2 do
   use GenServer
 
   def start_link(name) do
